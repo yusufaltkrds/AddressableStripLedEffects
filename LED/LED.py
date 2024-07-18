@@ -20,6 +20,7 @@ class Color(Enum):
 	PURPLE = (160, 32, 240)
 	TURQUOISE = (48, 213, 200)
 	ORANGE = (255, 120, 0)
+	WHITE = (255, 255, 255)
 	
 
 

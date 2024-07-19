@@ -1,7 +1,6 @@
 """ Different effects for ws281x led strips 
 """
 import time
-from xmlrpc.client import boolean
 from rpi_ws281x import PixelStrip, RGBW
 from enum import Enum
 
